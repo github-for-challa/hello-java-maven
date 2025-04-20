@@ -55,7 +55,7 @@ xml
 </project>
 
 Step 3: Install Jenkins (If Not Already Installed)
-If you haven’t installed Jenkins, you can do so by running it in Docker:
+If you haven’t installed Jenkins, or you can install jenkins in AWS ec2 , or  you can do so by running it in Docker:
 
 docker run -p 8080:8080 jenkins/jenkins:lts
 This command will start Jenkins on port 8080. You can access the Jenkins dashboard by navigating to http://localhost:8080 in your web browser.
