@@ -1,6 +1,6 @@
-README: Run a Simple Java Maven Build Job in Jenkins
+## Running  a Simple Java Maven Build Job in Jenkins
 Objective
-This task involves building a simple Java HelloWorld application using Maven in Jenkins. The goal is to learn the basic CI/CD principles by automating a Java build process in Jenkins.
+## This task involves building a simple Java HelloWorld application using Maven in Jenkins. The goal is to learn the basic CI/CD principles by automating a Java build process in Jenkins.
 
 Tools Required
 Jenkins (installed locally or via Docker)
